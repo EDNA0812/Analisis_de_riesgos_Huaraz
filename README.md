@@ -1,4 +1,9 @@
-# Analisis_de_riesgos_Huaraz
+#Analisis_de_riesgos_Huaraz
+INTEGRANTES
+- 19160022 Diaz Ramirez,Lissette Angelica
+- 19160173 Estrella Condezo, Wilder Jorch
+- 19160035 Tenorio Borda,Maria Emilia 
+- 19160041 Zegarra Tello,Consepcion Edna 
 VISIÓN GENERAL
 El objetivo principal del proyecto se sintetiza en:
 La representación del riesgo en sus distitas cualidades como resultado 
