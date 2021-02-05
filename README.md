@@ -60,5 +60,5 @@ usamos la funcion select para sacar los datos que vamos a plotear,usamos geom_sf
 aes: son asignaciones esteticas que se añaden a las variables de nuestros datos.
 - scale_fills_viridis nos sirve para poder acceder a la escala de colores 
 
-
+![Mapa de Riesgos de Desastres en Huaraz ](https://github.com/EDNA0812/Analisis_de_riesgos_Huaraz/blob/master/PLOT.png?raw=true)
 
