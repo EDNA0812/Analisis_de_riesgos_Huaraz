@@ -7,7 +7,7 @@ pacman::p_load(raster, rgdal, rgeos, tidyverse, string, sf)
 setwd("C:/Users/Wendy/Documents/PROGRAMACIÓN/huaraz")
 getwd()
 
-#ESTO PARA LIMPIAR LA MEMORIA 
+#ESTO PARA LIMPIAR LA MEMORIA
 g <- gc(reset=TRUE)
 rm(list = ls())
 options(scipen=999)
@@ -16,7 +16,7 @@ options(scipen=999)
 shp <- st_read("limites.shp")
 tbl <- read.csv("VUL_PREC.csv", sep = ";")
 
-#PARA VER LOS COMPONENTES QUE HAY EN shp Y tbl 
+#PARA VER LOS COMPONENTES QUE TIENEN
 str(tbl)
 str(shp)
 
