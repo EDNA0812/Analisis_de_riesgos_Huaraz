@@ -1,4 +1,4 @@
-#PARA DESCARGAR VARIAS LIBRERIAS EN UNA SOLA
+#PARA DESCARGAR VARIAS LIBRERIAS Y PAQUETES
 install.packages("pacman")
 library(pacman) 
 pacman::p_load(raster, rgdal, rgeos, tidyverse, string, sf)
