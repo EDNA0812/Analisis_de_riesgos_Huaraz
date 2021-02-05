@@ -1,6 +1,10 @@
 # Analisis_de_riesgos_Huaraz
 VISIÓN GENERAL
-
+El objetivo principal del proyecto se sintetiza en:
+La representación del riesgo en sus distitas cualidades como resultado 
+de los peligros de caracter hidrometereológigo y la vulnerabilidad 
+de la Provincia de Huaraz, mediante mapas temáticos.
+ 
 FUNCIONES
 "Pacman" es un paquete R que combina la funcionalidad de las funciones 
 relacionadas con la biblioteca base en funciones con nombres intuitivos. 
